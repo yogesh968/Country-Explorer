@@ -15,6 +15,7 @@ export default function useCountries() {
         return res.json();
       })
       .then((data) => {
+
         setCountries(data);
         setLoading(false);
       })
