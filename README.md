@@ -1,4 +1,4 @@
-#Country Explorer
+# Country Explorer
 
 A React app to explore countries around the world using the [REST Countries API](https://restcountries.com/).
 
